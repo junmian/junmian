@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/junmian/junmian/blob/main/wave.gif" width="30px">, I am Jun Mian</h1>
+
+<h2 align="center"> An academic-turned-web developer.</h2
 
 <!--
 **junmian/junmian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
